@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gauri Agarwal</h1>
-<h3 align="center">💻 A Passionate Frontend Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=FF6EC7&width=500&lines=Hey%2C+I'm+Gauri+Agarwal" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">👩‍💻 Transforming Ideas into Interactive Digital Experiences</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="Coding GIF" width="400"/>
@@ -54,6 +57,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
@@ -66,30 +70,33 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauriagwl864&show_icons=true&theme=default&locale=en" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauriagwl864&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauriagwl864" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/gauri_864?theme=dark" alt="LeetCode Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauriagwl864&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauriagwl864&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=scss" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauriagwl864&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+<h3 align="center">💡 LeetCode Profile Insights</h3>
+
+<p align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
+  <img width="80%" src="https://leetcard.jacoblin.cool/gauri_864?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+</p>
+
+
+
+
+---
+
+## 🤝 Let's Collaborate!
+
+<p align="center" style="font-size: 16px;">
+  I'm always open to exciting opportunities and creative collaborations! Whether you're a developer, designer, or someone with a unique idea — let's build something impactful together 🚀<br><br>
+  💌 <strong>Drop me a message:</strong> <a href="mailto:gouriagarwal864@gmail.com">gouriagarwal864@gmail.com</a><br>
+  Or just say hi — I'm always happy to connect! 😊
 </p>
 
 ---
 
-## 🚀 Featured Projects *(Add yours here)*
-
-- 🌐 [**Portfolio Website**](#) – Built with HTML/CSS/JS showcasing my work and experience  
-- 🧠 [**DSA Practice Tracker**](#) – Java-based tool to track problem-solving progress  
-- 💡 [**Frontend Mini Projects**](#) – Collection of UI components and small projects  
-
----
-
-## 💬 Let's Collaborate!
-
-Got a cool idea? Want to build something together or just want to say hi?  
-📬 Drop me an email at **gouriagarwal864@gmail.com**
-
----
-
-*Thanks for visiting my profile! Have a great day 🌟*
+<p align="center">✨ Thanks for visiting my profile! Have a fantastic day! ✨</p>
