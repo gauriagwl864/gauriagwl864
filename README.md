@@ -26,6 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauriagwl864&show_icons=true&locale=en&layout=compact" alt="gauriagwl864" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauriagwl864&show_icons=true&locale=en" alt="gauriagwl864" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/gauriagwl864?ext=heatmap)
+![](https://leetcard.jacoblin.cool/gauri_864?ext=heatmap)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauriagwl864&" alt="gauriagwl864" /></p>
