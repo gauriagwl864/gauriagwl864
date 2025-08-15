@@ -1,12 +1,10 @@
 <img src="https://blog.lsonline.fr/content/images/2021/03/github-standard-banner-1.png" alt="GitHub Banner" style="width:2048px;"/>
 
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&center=true&vCenter=true&color=FFFFFF&width=650&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Gauri+Agarwal%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&center=true&vCenter=true&color=FFFFFF&width=650&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Gauri+Agarwal%21" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀Enthusiastic Frontend Developer</h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauriagwl864&label=Profile%20views&color=0e75b6&style=flat" alt="gauriagwl864" />
@@ -107,9 +105,6 @@
 <p align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
   <img width="80%" src="https://leetcard.jacoblin.cool/gauri_864?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
 </p>
-
-
-
 
 ---
 
