@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://blog.lsonline.fr/content/images/2021/03/github-standard-banner-1.png" alt="GitHub Banner" width="80%" />
-</p>
+<img src="https://blog.lsonline.fr/content/images/2021/03/github-standard-banner-1.png" alt="GitHub Banner" style="width:2048px;"/>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&center=true&vCenter=true&color=FFFFFF&width=650&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+Gauri+Agarwal%21" alt="Typing SVG" />
@@ -8,9 +7,6 @@
 
 <h3 align="center">🚀Enthusiastic Frontend Developer</h3>
 
-<p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauriagwl864&label=Profile%20views&color=0e75b6&style=flat" alt="gauriagwl864" />
